@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PupilManager</string>
+    <string name="header_message">Pupil Manager</string>
+    <string name="footer_message">PupilManager Version 1 2019</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_add">Add</string>
+    <string name="title_frm_data">Add New Data</string>
+</resources>
