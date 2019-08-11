@@ -46,7 +46,7 @@ public class Frm_Introduce extends Fragment {
         Frm_Main frm_main = new Frm_Main();
         Bundle args =  new Bundle();
         args.putString("name","Frm_Main");
-        frm_main.name = "Frm_Main";
+        //frm_main.name = "Frm_Main";
         frm_main.setArguments(args);
         fragmentTransaction.replace(android.R.id.content, frm_main);
         fragmentTransaction.addToBackStack(null);
